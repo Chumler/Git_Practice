@@ -1,3 +1,3 @@
-#Git_it
-##Tyler Goodman
-###Root Beer
+#Git it
+## Tyler Goodman
+### Root Beer
